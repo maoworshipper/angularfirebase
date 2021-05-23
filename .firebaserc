@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-848aa": {
+      "hosting": {
+        "save3app": [
+          "kanbanfire-848aa"
+        ]
+      }
+    }
+  }
+}
